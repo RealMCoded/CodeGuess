@@ -1,0 +1,10 @@
+C:\Users\Seth\documents\visual studio 2010\Projects\CodeGuess\CodeGuess\bin\Debug\CodeGuess.exe
+C:\Users\Seth\documents\visual studio 2010\Projects\CodeGuess\CodeGuess\bin\Debug\CodeGuess.pdb
+C:\Users\Seth\documents\visual studio 2010\Projects\CodeGuess\CodeGuess\bin\Debug\CodeGuess.xml
+C:\Users\Seth\documents\visual studio 2010\Projects\CodeGuess\CodeGuess\obj\x86\Debug\Locker.Resources.resources
+C:\Users\Seth\documents\visual studio 2010\Projects\CodeGuess\CodeGuess\obj\x86\Debug\CodeGuess.vbproj.GenerateResource.Cache
+C:\Users\Seth\documents\visual studio 2010\Projects\CodeGuess\CodeGuess\obj\x86\Debug\CodeGuess.exe
+C:\Users\Seth\documents\visual studio 2010\Projects\CodeGuess\CodeGuess\obj\x86\Debug\CodeGuess.xml
+C:\Users\Seth\documents\visual studio 2010\Projects\CodeGuess\CodeGuess\obj\x86\Debug\CodeGuess.pdb
+C:\Users\Seth\documents\visual studio 2010\Projects\CodeGuess\CodeGuess\obj\x86\Debug\Locker.init.resources
+C:\Users\Seth\documents\visual studio 2010\Projects\CodeGuess\CodeGuess\obj\x86\Debug\Locker.main.resources

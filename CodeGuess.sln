@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Basic Express 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CodeGuess", "CodeGuess\CodeGuess.vbproj", "{7FB3D4DD-EFD9-427C-8730-B782E403FB0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FB3D4DD-EFD9-427C-8730-B782E403FB0A}.Debug|x86.ActiveCfg = Debug|x86
+		{7FB3D4DD-EFD9-427C-8730-B782E403FB0A}.Debug|x86.Build.0 = Debug|x86
+		{7FB3D4DD-EFD9-427C-8730-B782E403FB0A}.Release|x86.ActiveCfg = Release|x86
+		{7FB3D4DD-EFD9-427C-8730-B782E403FB0A}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

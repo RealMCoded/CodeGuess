@@ -1,0 +1,9 @@
+C:\Users\Seth\AppData\Local\Temporary Projects\Locker\bin\Debug\Locker.exe
+C:\Users\Seth\AppData\Local\Temporary Projects\Locker\bin\Debug\Locker.pdb
+C:\Users\Seth\AppData\Local\Temporary Projects\Locker\bin\Debug\Locker.xml
+C:\Users\Seth\AppData\Local\Temporary Projects\Locker\obj\x86\Debug\Locker.Form1.resources
+C:\Users\Seth\AppData\Local\Temporary Projects\Locker\obj\x86\Debug\Locker.Resources.resources
+C:\Users\Seth\AppData\Local\Temporary Projects\Locker\obj\x86\Debug\Locker.vbproj.GenerateResource.Cache
+C:\Users\Seth\AppData\Local\Temporary Projects\Locker\obj\x86\Debug\Locker.exe
+C:\Users\Seth\AppData\Local\Temporary Projects\Locker\obj\x86\Debug\Locker.xml
+C:\Users\Seth\AppData\Local\Temporary Projects\Locker\obj\x86\Debug\Locker.pdb
